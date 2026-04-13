@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d430f1f-0355-408c-b451-64698510462a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../OOP4/src/Bolum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NTP1/src/Ev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NTP1/src/Ev/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NTP2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NTP2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NTP2/src/Araba/Araba.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NTP2/src/Araba/Araba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NTP2/src/Araba2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NTP2/src/Araba2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NTP2/src/Yazarlar/Yazarlar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NTP2/src/Yazarlar/Yazarlar.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kyamervan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kyamervan/Object-Oriented-Programming.git&quot;,
+    &quot;accountId&quot;: &quot;dab2eb46-66a0-407c-af84-6a0fc871d804&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3BZUrQxp2zzqsJjfxL56Jri5FhX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Merwan/IdeaProjects/NTP3/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d430f1f-0355-408c-b451-64698510462a" name="Changes" comment="" />
+      <created>1774696283604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774696283604</updated>
+      <workItem from="1774696284842" duration="500000" />
+      <workItem from="1774697636249" duration="5489000" />
+      <workItem from="1774774306865" duration="10200000" />
+      <workItem from="1775404486689" duration="6000" />
+      <workItem from="1775405016854" duration="3173000" />
+      <workItem from="1775590121712" duration="1237000" />
+      <workItem from="1775591670806" duration="10000" />
+      <workItem from="1775618408730" duration="49000" />
+      <workItem from="1775632381125" duration="24000" />
+      <workItem from="1776074518476" duration="480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
